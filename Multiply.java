@@ -3,6 +3,6 @@ public class Multiply {
         int a = 5;
         int b = 6;
 
-        System.out.println("sum of two numbers is : " + (a * b));
+        System.out.println("Multiplication of two numbers is : " + (a * b));
     }
 }
